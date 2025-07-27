@@ -1,0 +1,8 @@
+--------------------------- 
+N = 3360 , M = 13776 
+LU solve time  = 205.218139 [sec.] 
+ 123.721686 [MFLOPS] 
+Pass value: 3.406360e-01 
+Calculated value: 8.944971e-05 
+ OK! Test is passed. 
+--------------------------- 

@@ -1,0 +1,8 @@
+--------------------------- 
+N = 2240 , M = 1 
+LU solve time  = 5.173469 [sec.] 
+ 1451.736406 [MFLOPS] 
+Pass value: 1.579764e-03 
+Calculated value: 2.218708e-07 
+ OK! Test is passed. 
+--------------------------- 
